@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tsix\\Arduino\\webAPI\\dotnetcore-app\\webAPI.csproj",
+      "projectUniqueName": "C:\\tsix\\Arduino\\webAPI\\dotnetcore-app.git\\trunk\\webAPI.csproj",
       "projectName": "webAPI",
-      "projectPath": "C:\\tsix\\Arduino\\webAPI\\dotnetcore-app\\webAPI.csproj",
+      "projectPath": "C:\\tsix\\Arduino\\webAPI\\dotnetcore-app.git\\trunk\\webAPI.csproj",
       "packagesPath": "C:\\Users\\trakotom\\.nuget\\packages\\",
-      "outputPath": "C:\\tsix\\Arduino\\webAPI\\dotnetcore-app\\obj\\",
+      "outputPath": "C:\\tsix\\Arduino\\webAPI\\dotnetcore-app.git\\trunk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
