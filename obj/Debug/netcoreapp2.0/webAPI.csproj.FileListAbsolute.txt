@@ -1,0 +1,10 @@
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\bin\Debug\netcoreapp2.0\webAPI.deps.json
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\bin\Debug\netcoreapp2.0\webAPI.runtimeconfig.json
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\bin\Debug\netcoreapp2.0\webAPI.runtimeconfig.dev.json
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\bin\Debug\netcoreapp2.0\webAPI.dll
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\bin\Debug\netcoreapp2.0\webAPI.pdb
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\obj\Debug\netcoreapp2.0\webAPI.csproj.CoreCompileInputs.cache
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\obj\Debug\netcoreapp2.0\webAPI.AssemblyInfoInputs.cache
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\obj\Debug\netcoreapp2.0\webAPI.AssemblyInfo.cs
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\obj\Debug\netcoreapp2.0\webAPI.dll
+C:\tsix\Arduino\webAPI\dotnetcore-app.git\trunk\obj\Debug\netcoreapp2.0\webAPI.pdb
